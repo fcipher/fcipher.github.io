@@ -1,3 +1,5 @@
 Web Development
 - Mencoba mempelajari CSS dengan baik dan benar
 - Front-End adalah unsur utama sebagai pembelajaran desain untuk kebutuhan web komersil
+- Membuat screen recording tentang jalannya pembelajaran
+- Memastikan SEO berjalan dengan baik
